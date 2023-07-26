@@ -8,3 +8,7 @@ which have the time limit of 2min have to complete the game in 2mins only.
 
 
 
+https://github.com/aryan327/Carrom-Board-Game/assets/82660401/5d537699-2e84-4b2a-806b-3f6a4e47f265
+
+
+
